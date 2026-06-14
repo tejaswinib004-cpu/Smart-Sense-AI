@@ -1,0 +1,10 @@
+{
+  "features": [
+    "self_esteem",
+    "sleep_quality",
+    "anxiety_level",
+    "depression",
+    "study_load",
+    "mental_health_history"
+  ]
+}

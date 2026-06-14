@@ -1,0 +1,21 @@
+{
+  "features": [
+    "anxiety_level",
+    "self_esteem",
+    "mental_health_history",
+    "depression",
+    "sleep_quality",
+    "study_load",
+    "future_career_concerns",
+    "social_support",
+    "peer_pressure",
+    "bullying"
+  ],
+  "target": "stress_level",
+  "n_features": 10,
+  "label_map": {
+    "0": "Low",
+    "1": "Moderate",
+    "2": "High"
+  }
+}

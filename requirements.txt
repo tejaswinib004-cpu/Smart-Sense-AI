@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic[email]
+python-jose[cryptography]
+PyJWT
+passlib[bcrypt]
+python-dotenv
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn

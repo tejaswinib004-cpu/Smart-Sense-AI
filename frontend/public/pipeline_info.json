@@ -1,0 +1,29 @@
+{
+  "outlier_handling": "IQR filtering per feature (remove rows outside 1.5*IQR)",
+  "missing_values": "Drop rows with missing values in features/target",
+  "scaling": "StandardScaler applied to numeric features",
+  "feature_selection": [
+    "self_esteem",
+    "sleep_quality",
+    "anxiety_level",
+    "depression",
+    "study_load",
+    "mental_health_history"
+  ],
+  "feature_correlations": {
+    "self_esteem": 0.788,
+    "sleep_quality": 0.786,
+    "anxiety_level": 0.772,
+    "depression": 0.758,
+    "study_load": 0.685,
+    "mental_health_history": 0.663
+  },
+  "outlier_counts": {
+    "self_esteem": 0,
+    "sleep_quality": 0,
+    "anxiety_level": 0,
+    "depression": 0,
+    "study_load": 165,
+    "mental_health_history": 0
+  }
+}
