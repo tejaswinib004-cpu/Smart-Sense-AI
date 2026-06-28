@@ -250,8 +250,6 @@ Crisis resources for high stress:
 
 ---
 
----
-
 **Project Created**: May 2026
 
 **Tech Stack**: FastAPI, React, Scikit-Learn, SQLite, Vite
